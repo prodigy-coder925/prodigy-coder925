@@ -8,5 +8,5 @@
 - ⚡ Fun fact: I think a lot 😄
 - Projects:
 - [Birthday Countdown ⏲️](https://prodigy-coder925.github.io/Birthday-CountDown/)
-
+- [Periodic Table](https://periodic-table-0xmuneeb.netlify.app/)
 
